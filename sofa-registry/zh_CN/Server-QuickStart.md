@@ -14,7 +14,7 @@ cd sofa-registry
 ### 2. 编译打包
 
 ```bash
-mvn clean package -DskipTests
+mvn clean package -DskipTests 
 ```
 ### 3. 解压 registry-integration.tgz
 
